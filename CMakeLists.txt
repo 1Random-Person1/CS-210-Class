@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(CS_210_Class main.cpp
         Reinforcements.cpp
-        Reinforcements.h)
+        Reinforcements.h
+        Creativity.cpp
+        Creativity.h)
