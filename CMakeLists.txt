@@ -7,4 +7,6 @@ add_executable(CS_210_Class main.cpp
         Reinforcements.cpp
         Reinforcements.h
         Creativity.cpp
-        Creativity.h)
+        Creativity.h
+        project.cpp
+        project.h)
